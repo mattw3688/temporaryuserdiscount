@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>temporaryuserdiscount</name>
+    <displayName><![CDATA[Temporary User Discount]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Sets a discount code of a predetermined percentage for and new user when an account is registered]]></description>
+    <author><![CDATA[Matt Wheeler]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
